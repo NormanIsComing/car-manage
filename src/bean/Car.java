@@ -23,6 +23,8 @@ public class Car {
 	private String local_4;
 	
 	private String local_5;
+	
+	private String local_6;
 
 	public String getColor() {
 		return color;
