@@ -7,6 +7,8 @@ public class Car {
 	private String price;
 	
 	private String local;
+	
+	private String eclipse;
 
 	public String getColor() {
 		return color;
