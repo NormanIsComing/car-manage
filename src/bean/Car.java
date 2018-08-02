@@ -21,7 +21,9 @@ public class Car {
 	private String local_3;
 	
 	private String local_4;
-	
+
+	private String eclipse_3;
+
 	private String local_5;
 	
 	private String local_6;
