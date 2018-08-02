@@ -13,7 +13,6 @@ public class Car {
 	private String local_1;
 
 	private String eclipse_1;
-	
 
 	private String local_2
 	
