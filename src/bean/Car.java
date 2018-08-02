@@ -5,6 +5,8 @@ public class Car {
 	private String color;
 	
 	private String price;
+	
+	private String local;
 
 	public String getColor() {
 		return color;
