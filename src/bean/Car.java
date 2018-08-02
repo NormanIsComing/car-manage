@@ -9,6 +9,8 @@ public class Car {
 	private String local;
 	
 	private String eclipse;
+	
+	private String local_1;
 
 	public String getColor() {
 		return color;
